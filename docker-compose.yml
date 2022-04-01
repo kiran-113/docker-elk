@@ -78,7 +78,7 @@ services:
        - elasticsearch
        - kibana
      ports:
-       - '80:80'
+       - '90:80'
      networks:
        - elk      
          
